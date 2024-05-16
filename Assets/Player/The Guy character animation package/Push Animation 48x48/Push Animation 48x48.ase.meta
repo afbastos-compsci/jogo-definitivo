@@ -1,0 +1,475 @@
+fileFormatVersion: 2
+guid: e4561d61b9ef1ffeb80b861aa16e0b04
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Push Animation 48x48_Frame_0
+    originalName: 
+    pivot: {x: 0.28571427, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 54
+      width: 28
+      height: 42
+    spriteID: 9e697a50deb5a2d22917e2f7fa62f1b4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 54}
+  - name: Push Animation 48x48_Frame_1
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 208
+      width: 30
+      height: 42
+    spriteID: bf1e63273692cbd07ab6211047f1a83b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 208}
+  - name: Push Animation 48x48_Frame_2
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.023255816}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 30
+      height: 43
+    spriteID: 7c906767b51cd6a92aec0b80f31022be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Push Animation 48x48_Frame_3
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.023255816}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 55
+      width: 30
+      height: 43
+    spriteID: da51cdd245e6f49d18c66075764b6dca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 55}
+  - name: Push Animation 48x48_Frame_4
+    originalName: 
+    pivot: {x: 0.16000001, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 204
+      width: 25
+      height: 42
+    spriteID: d2daa616a9255f3c18a45f7a4d7a99eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 204}
+  - name: Push Animation 48x48_Frame_5
+    originalName: 
+    pivot: {x: 0.13043478, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 4
+      width: 23
+      height: 42
+    spriteID: fe67eaa82a486a3e599780ee744ccdd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 59, y: 3}
+  - name: Push Animation 48x48_Frame_6
+    originalName: 
+    pivot: {x: 0.23076923, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 154
+      width: 26
+      height: 42
+    spriteID: d10cc346cabd863b58ed70e1e3fd2856
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 24, y: 153}
+  - name: Push Animation 48x48_Frame_7
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 4
+      width: 30
+      height: 42
+    spriteID: bb7cc37eb45dc7217b4d9a233f681a14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 4}
+  - name: Push Animation 48x48_Frame_8
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.023255816}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 106
+      width: 30
+      height: 43
+    spriteID: 36091a041b3c384bab5b3f8c90428258
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 106}
+  - name: Push Animation 48x48_Frame_9
+    originalName: 
+    pivot: {x: 0.33333334, y: -0.023255816}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 30
+      height: 43
+    spriteID: 74e9649c592527364a76b763ec507b2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 157}
+  - name: Push Animation 48x48_Frame_10
+    originalName: 
+    pivot: {x: 0.22222222, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 42
+      y: 104
+      width: 27
+      height: 42
+    spriteID: 9790eff09e419eef79c044314c2e7995
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 42, y: 104}
+  - name: Push Animation 48x48_Frame_11
+    originalName: 
+    pivot: {x: 0.13043478, y: -0.023809526}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 80
+      y: 54
+      width: 23
+      height: 42
+    spriteID: e4d9dd6a02b95201789023327ee4555c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 80, y: 54}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 905792076
+    name: Push Animation 48x48
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Push Animation 48x48_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 16
+        y: 1
+        width: 28
+        height: 42
+      spriteId: 9e697a50deb5a2d22917e2f7fa62f1b4
+    - name: Push Animation 48x48_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 14
+        y: 1
+        width: 30
+        height: 42
+      spriteId: bf1e63273692cbd07ab6211047f1a83b
+    - name: Push Animation 48x48_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 14
+        y: 1
+        width: 30
+        height: 43
+      spriteId: 7c906767b51cd6a92aec0b80f31022be
+    - name: Push Animation 48x48_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 14
+        y: 1
+        width: 30
+        height: 43
+      spriteId: da51cdd245e6f49d18c66075764b6dca
+    - name: Push Animation 48x48_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 20
+        y: 1
+        width: 25
+        height: 42
+      spriteId: d2daa616a9255f3c18a45f7a4d7a99eb
+    - name: Push Animation 48x48_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      spriteId: fe67eaa82a486a3e599780ee744ccdd9
+    - name: Push Animation 48x48_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 48
+        height: 48
+      spriteId: d10cc346cabd863b58ed70e1e3fd2856
+    - name: Push Animation 48x48_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 14
+        y: 1
+        width: 30
+        height: 42
+      spriteId: bb7cc37eb45dc7217b4d9a233f681a14
+    - name: Push Animation 48x48_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 14
+        y: 1
+        width: 30
+        height: 43
+      spriteId: 36091a041b3c384bab5b3f8c90428258
+    - name: Push Animation 48x48_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 14
+        y: 1
+        width: 30
+        height: 43
+      spriteId: 74e9649c592527364a76b763ec507b2f
+    - name: Push Animation 48x48_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 18
+        y: 1
+        width: 27
+        height: 42
+      spriteId: 9790eff09e419eef79c044314c2e7995
+    - name: Push Animation 48x48_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 21
+        y: 1
+        width: 23
+        height: 42
+      spriteId: e4d9dd6a02b95201789023327ee4555c
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}

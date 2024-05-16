@@ -1,0 +1,4 @@
+repository "Jogo Definitivo@AndreiFB@cloud"
+  path "/"
+    br "/main"
+    co "/main"
